@@ -8,6 +8,7 @@
 - Tecnologías Utilizadas
 - Principales Características
 - Información Legal
+- Despliegue
 
 ## Introducción
 Bienvenido al repositorio oficial del proyecto Cosmocol, el portal que hace que la inmensidad del universo esté al alcance de tu mano. Nuestra plataforma es el punto de partida para todos los aficionados a la astronomía y aquellos que desean explorar el universo desde su propio telescopio.
@@ -40,4 +41,7 @@ El sitio web está organizado en varias secciones principales:
 
 ## Información Legal
 Cosmocol es una marca registrada. Todos los derechos están reservados. El uso de este sitio web implica la aceptación de nuestros Términos de Servicio y Política de Privacidad.
+
+## Despliegue
+Sitio web oficial: https://cosmocol.netlify.app/
 
